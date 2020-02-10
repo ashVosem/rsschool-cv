@@ -16,4 +16,4 @@
 * Education: BSU RFE, Introduction to C++ courses (EPAM), self-learning.
 * English: gained experience in English by traveling and playing computer games.
 
-![chto cv da normalno](sane4ek.jpg)
+![4to cv da normalno](sane4ek.jpg)
