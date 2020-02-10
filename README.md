@@ -1,2 +1,2 @@
-# https://ashVosem.github.io/rsschool-cv/cv
+# https://ashVosem.github.io/rsschool-cv/
 
